@@ -39,6 +39,7 @@ Department
 Job Role
 Gender
 Age Group
+
 💡 Key Insights
 🔸 Higher attrition observed in specific departments
 🔸 Employees with lower salary slabs show higher exit rates
@@ -46,6 +47,7 @@ Age Group
 🔸 Certain job roles have significantly higher attrition
 🔸 Workforce distribution highlights imbalance in some departments
 departments
+
 🚀 What Makes This Dashboard Powerful?
 ✔️ Clear KPI tracking for quick HR decisions
 ✔️ Interactive slicers for dynamic analysis
@@ -53,6 +55,7 @@ departments
 ✔️ Data modeling for accurate insights
 ✔️ Helps identify root causes of attrition
 🛠️ Tools & Technologies Used
+
 Microsoft Power BI
 Power Query (Data Cleaning & Transformation)
 DAX (Data Analysis Expressions)
