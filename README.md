@@ -20,6 +20,7 @@ Track workforce distribution across departments and roles
 Highlight key factors impacting employee retention
 Build an interactive dashboard for quick decision-making
 📊 Dashboard Features
+
 ✅ Key Metrics (KPIs)
 Total Employees
 Attrition Count
@@ -34,6 +35,7 @@ Attrition by Age Group
 Attrition by Salary Slab
 Attrition by Years at Company
 Gender-wise Employee Distribution
+
 🎛️ Interactive Filters
 Department
 Job Role
@@ -42,18 +44,27 @@ Age Group
 
 💡 Key Insights
 🔸 Higher attrition observed in specific departments
+
 🔸 Employees with lower salary slabs show higher exit rates
+
 🔸 Early tenure employees are more likely to leave
+
 🔸 Certain job roles have significantly higher attrition
+
 🔸 Workforce distribution highlights imbalance in some departments
 departments
 
 🚀 What Makes This Dashboard Powerful?
 ✔️ Clear KPI tracking for quick HR decisions
+
 ✔️ Interactive slicers for dynamic analysis
+
 ✔️ Clean and intuitive visual design
+
 ✔️ Data modeling for accurate insights
+
 ✔️ Helps identify root causes of attrition
+
 🛠️ Tools & Technologies Used
 
 Microsoft Power BI
