@@ -61,6 +61,7 @@ Age Group
 departments
 
 🚀 What Makes This Dashboard Powerful?
+
 ✔️ Clear KPI tracking for quick HR decisions
 
 ✔️ Interactive slicers for dynamic analysis
